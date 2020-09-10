@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Kufam:wght@600&display=swap);.App{text-align:center}.form{display:flex;flex-direction:column;align-items:center}.item{margin:10px}.list{display:flex;flex-wrap:wrap;align-items:center}.todo{border:2px solid #000;margin:10px;padding:10px;cursor:pointer;min-width:200px;max-width:275px;word-wrap:break-word;font-family:"Kufam",cursive;overflow:hidden;background-color:#d1ff29}.error{position:fixed;top:50px;color:red}.checked{background-color:#2ff515}
+/*# sourceMappingURL=main.9f96fe57.chunk.css.map */
